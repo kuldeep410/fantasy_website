@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <g id="google-play" transform="translate(-55 -6071)">
+    <rect id="Rectangle_363" data-name="Rectangle 363" width="200" height="60" rx="5" transform="translate(55 6071)"/>
+    <g id="Group_9727" data-name="Group 9727" transform="translate(66 6081)">
+      <g id="Group_9717" data-name="Group 9717" transform="translate(22.513 14.665)">
+        <g id="Group_9716" data-name="Group 9716">
+          <path id="Path_161" data-name="Path 161" d="M592.3,677.272l-7.448-4.3-6.125,5.921,5.6,5.411,7.975-4.6a1.4,1.4,0,0,0,0-2.432Z" transform="translate(-578.726 -672.974)" fill="#ffd109"/>
+        </g>
+      </g>
+      <g id="Group_9719" data-name="Group 9719" transform="translate(1.218)">
+        <g id="Group_9718" data-name="Group 9718">
+          <path id="Path_162" data-name="Path 162" d="M440.867,573.96l-8.2-4.731-17.961-9.2L435,579.635Z" transform="translate(-414.71 -560.025)" fill="#06ef79"/>
+        </g>
+      </g>
+      <g id="Group_9721" data-name="Group 9721" transform="translate(1.516 21.563)">
+        <g id="Group_9720" data-name="Group 9720">
+          <path id="Path_163" data-name="Path 163" d="M417.005,745.417,434.7,735.67l7.638-4.409-5.343-5.165Z" transform="translate(-417.005 -726.096)" fill="#f93646"/>
+        </g>
+      </g>
+      <g id="Group_9723" data-name="Group 9723" transform="translate(0 0.793)">
+        <g id="Group_9722" data-name="Group 9722">
+          <path id="Path_164" data-name="Path 164" d="M405.351,566.136l-.019,39.6,20.494-19.812Z" transform="translate(-405.332 -566.136)" fill="#05d5fb"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_9728" data-name="Group 9728" transform="translate(0 -89)">
+      <text id="GET_IN_ON" data-name="GET IN ON" transform="translate(108 6181)" fill="#fff" font-size="14" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">GET IN ON</tspan></text>
+      <text id="Google_Play" data-name="Google Play" transform="translate(108 6207)" fill="#fff" font-size="24" font-family="Quicksand-Medium, Quicksand" font-weight="500"><tspan x="0" y="0">Google Play</tspan></text>
+    </g>
+  </g>
+</svg>
